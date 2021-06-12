@@ -1,6 +1,4 @@
-function riport(input) {
+module.exports.riport=(input) =>{
     console.log('Welcome to RIPORT' + input);
-
-}
-
-module.exports.riport = riport;
+    return input;
+};

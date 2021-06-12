@@ -1,0 +1,22 @@
+{
+  "name": "riport",
+  "version": "1.0.0",
+  "description": "riport tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ripusudan/riport.git"
+  },
+  "keywords": [
+    "riport"
+  ],
+  "author": "ripu sudan chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ripusudan/riport/issues"
+  },
+  "homepage": "https://github.com/ripusudan/riport#readme"
+}
